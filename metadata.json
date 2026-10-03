@@ -1,0 +1,7 @@
+{
+  "name": "NetPulse - Multi-Vendor Network & SNMP Monitor",
+  "description": "Sistem monitoring kinerja jaringan internet multi-vendor (MikroTik, Cisco, Huawei, Ubiquiti, Switch, Server) via SNMP real-time, grafik bandwidth upload/download, CPU/RAM/suhu, topologi interaktif, dan notifikasi gangguan otomatis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
